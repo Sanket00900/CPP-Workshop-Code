@@ -18,7 +18,7 @@ int main()
         cout << "Value of var[" << i << "] = ";
         cout << *ptr << endl;
 
-        ptr++;
+        // ptr++;
     }
 
     return 0;
